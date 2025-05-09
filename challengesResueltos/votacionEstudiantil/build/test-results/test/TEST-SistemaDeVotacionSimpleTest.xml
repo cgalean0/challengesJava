@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SistemaDeVotacionSimpleTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-05-09T15:47:29" hostname="archlinux" time="0.02">
+  <properties/>
+  <testcase name="testObtenerGanadorSinCandidatosLanzaExcepcion()" classname="SistemaDeVotacionSimpleTest" time="0.011"/>
+  <testcase name="testVotarPorCandidatoInexistenteLanzaExcepcion()" classname="SistemaDeVotacionSimpleTest" time="0.001"/>
+  <testcase name="testAgregarCandidato()" classname="SistemaDeVotacionSimpleTest" time="0.001"/>
+  <testcase name="testObtenerGanador()" classname="SistemaDeVotacionSimpleTest" time="0.0"/>
+  <testcase name="testVotarPorCandidato()" classname="SistemaDeVotacionSimpleTest" time="0.001"/>
+  <testcase name="testAgregarCandidatoDuplicadoLanzaExcepcion()" classname="SistemaDeVotacionSimpleTest" time="0.001"/>
+  <testcase name="testObtenerResultadosOrdenCorrecto()" classname="SistemaDeVotacionSimpleTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
